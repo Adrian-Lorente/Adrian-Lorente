@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Bachelor in Computer Science and Engineering.
 - 🌱 Interested in computer vision, machine learning, AI and videogame/software development.
-- 👩‍🔬 I'm currently a Data Engineer Intern at [DataMarket](https://datamarket.es).
+- 👩‍🔬 I'm currently a Data Engineer at [DataMarket](https://datamarket.es).
 - 📨 My e-mail contact is adrn.lorente@gmail.com. 
 <!--
 **Adrian-Lorente/Adrian-Lorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
