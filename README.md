@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Adrián. Nice to meet ya!
 
+- 👨‍🎓 Bachelor in Computer Science and Engineering.
 - 🌱 Interested in computer vision, machine learning, AI and videogame/software development.
-- 👨‍🎓 I'm in my last year of a bachelor in Computer Science and Engineering.
-- 👩‍🔬 I'm currently a Data Science Intern at [WhiteBox ML](https://www.whiteboxml.com/en), and a Data Engineer Intern at [DataMarket](https://datamarket.es).
+- 👩‍🔬 I'm currently a Data Engineer Intern at [DataMarket](https://datamarket.es).
 - 📨 My e-mail contact is adrn.lorente@gmail.com. 
 <!--
 **Adrian-Lorente/Adrian-Lorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
