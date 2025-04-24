@@ -1,20 +1,34 @@
-### Hi there 👋 I'm Adrián. Nice to meet ya!
+<h1 align=center>Hi, I'm Adrián! 👋</h1>
+
+# About me
+
+
 
 - 👨‍🎓 Bachelor in Computer Science and Engineering.
-- 🌱 Interested in computer vision, machine learning, AI and videogame/software development.
-- 👩‍🔬 I'm currently a Data Engineer at [DataMarket](https://datamarket.es).
-- 📨 My e-mail contact is adrn.lorente@gmail.com. 
-<!--
-**Adrian-Lorente/Adrian-Lorente** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Interested in data, AI and videogame/software development.
+- 👩‍🔬 I'm currently a full time Data Engineer at [DataMarket](https://datamarket.es). The GH account I use for work is [@Adrn-Lorente](https://github.com/Adrn-Lorente).
+- 📨 My e-mail contact is adrn.lorente@gmail.com.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+
+## Languages
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,aws,bash,docker,git,postgres)](https://skillicons.dev) -->
+
+[![Languages](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,py,cs,c,bash&perline=7)](https://skillicons.dev)
+
+
+## Environment
+
+[![Environment](https://go-skill-icons.vercel.app/api/icons?i=windows,linux,nix,proxmox,vscode,visualstudio,pycharm,vim,kitty,dbeaver,firefox&perline=7)](https://skillicons.dev)
+
+
+## Technologies
+
+[![Environment](https://go-skill-icons.vercel.app/api/icons?i=aws,docker,selenium,playwright,numpy,pandas,jupyter,tensorflow,scikitlearn,postgres,clickhouse,airflow,celery,vue&perline=7)](https://skillicons.dev)
+
+
+## Tools
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,unity,git,github,obsidian,notion&perline=7)](https://skillicons.dev)
