@@ -47,22 +47,22 @@ I'm one of those fellow 東方 music enjoyers, and I thought it would be great t
 
 <p align="center">
     <a href="https://www.youtube.com/watch?v=EtYVhHfXBwE" target="_blank">
-        <img src="https://img.youtube.com/vi/EtYVhHfXBwE/hqdefault.jpg" width="300" height="200" alt="Track 1"/>
+        <img src="https://img.youtube.com/vi/EtYVhHfXBwE/maxresdefault.jpg" width="300" height="200" alt="Track 1"/>
     </a>
     <a href="https://www.youtube.com/watch?v=RpsjwnKTiRU" target="_blank">
-        <img src="https://img.youtube.com/vi/RpsjwnKTiRU/hqdefault.jpg" width="300" height="200" alt="Track 2"/>
+        <img src="https://img.youtube.com/vi/RpsjwnKTiRU/maxresdefault.jpg" width="300" height="200" alt="Track 2"/>
     </a>
     <a href="https://www.youtube.com/watch?v=J3IsvsFrhG0" target="_blank">
-        <img src="https://img.youtube.com/vi/J3IsvsFrhG0/hqdefault.jpg" width="300" height="200" alt="Track 3"/>
+        <img src="https://img.youtube.com/vi/J3IsvsFrhG0/maxresdefault.jpg" width="300" height="200" alt="Track 3"/>
     </a>
     <a href="https://www.youtube.com/watch?v=AsQiiCXYygs" target="_blank">
-        <img src="https://img.youtube.com/vi/AsQiiCXYygs/hqdefault.jpg" width="300" height="200" alt="Track 4"/>
+        <img src="https://img.youtube.com/vi/AsQiiCXYygs/maxresdefault.jpg" width="300" height="200" alt="Track 4"/>
     </a>
     <a href="https://www.youtube.com/watch?v=zQnsbPaiWSo" target="_blank">
-        <img src="https://img.youtube.com/vi/zQnsbPaiWSo/hqdefault.jpg" width="300" height="200" alt="Track 4"/>
+        <img src="https://img.youtube.com/vi/zQnsbPaiWSo/maxresdefault.jpg" width="300" height="200" alt="Track 4"/>
     </a>
     <a href="https://www.youtube.com/watch?v=fMmnWkQajG8" target="_blank">
-        <img src="https://img.youtube.com/vi/fMmnWkQajG8/hqdefault.jpg" width="300" height="200" alt="Track 5"/>
+        <img src="https://img.youtube.com/vi/fMmnWkQajG8/maxresdefault.jpg" width="300" height="200" alt="Track 5"/>
     </a>
 
 </p>
