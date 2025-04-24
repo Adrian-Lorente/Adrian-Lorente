@@ -5,7 +5,7 @@
 
 
 - 👨‍🎓 Bachelor in Computer Science and Engineering, graduated from University Carlos III (Madrid, Spain).
-- 📜 I have an ISE II (B2) certification of my english proficiency.-
+- 📜 I have an ISE II (B2) certification of my english proficiency.
 - 🌸 I've been learning japanese for about a year. No certifications yet, but I'm taking the 日本能力試験 N4 next July!
 - 🌱 Interested in data, AI and videogame/software development.
 - 👩‍🔬 I'm currently a full time Data Engineer at [DataMarket](https://datamarket.es). The GH account I use for work is [@Adrn-Lorente](https://github.com/Adrn-Lorente).
