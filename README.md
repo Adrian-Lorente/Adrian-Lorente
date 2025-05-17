@@ -41,7 +41,7 @@
 
 # 🎶 Music
 
-I'm one of those fellow 東方 music enjoyers, and I thought it would be great to share a few of my fav jams!
+I'm one of those fellow 東方 music enjoyers, and I thought it would be great to share a few of my jams!
 
 
 
